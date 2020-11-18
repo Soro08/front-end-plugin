@@ -59,3 +59,33 @@ Liste de quelques plugin web front end
 ## After effet
 
 https://uicookies.com/css-card-flip/
+
+
+
+
+##------------ New
+
+### Form
+
+https://developer.snapappointments.com/bootstrap-select/examples/
+https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/
+https://amsul.ca/pickadate.js/
+
+### Page
+https://michalsnik.github.io/aos/
+http://bootstrap-notify.remabledesigns.com/
+http://maxwellito.github.io/vivus/
+
+
+#### Menu
+https://mm.onokumus.com/index.html
+### Chart
+https://www.amcharts.com/
+https://gionkunz.github.io/chartist-js/
+http://benpickles.github.io/peity/
+https://fullcalendar.io
+
+### Code
+https://highlightjs.org/static/demo/
+
+
